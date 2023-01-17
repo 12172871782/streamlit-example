@@ -1,3 +1,2 @@
-from diffusers import DiffusionPipeline
-
-pipeline = DiffusionPipeline.from_pretrained("lunarfish/furrydiffusion")
+git lfs install
+git clone https://huggingface.co/lunarfish/furrydiffusion
